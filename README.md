@@ -13,7 +13,7 @@ Project description.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/patriciachrysy/apple-product-page-clone/c882d808189e3094e785f567b6cdf3a1942ac7dd/index.html)
+[Live Demo Link](https://rawcdn.githack.com/patriciachrysy/apple-product-page-clone/a505a8ef9d827c6245d386f229834b673a726b71/index.html)
 
 
 ## Getting Started
